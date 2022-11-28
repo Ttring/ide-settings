@@ -4,6 +4,12 @@
       <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
       <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     </JavaCodeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
     <codeStyleSettings language="JSON">
       <indentOptions>
         <option name="USE_TAB_CHARACTER" value="true" />
